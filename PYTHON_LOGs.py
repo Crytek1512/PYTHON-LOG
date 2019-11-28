@@ -61,7 +61,7 @@ while True:
         except:
             print("\nPlease Enter Integer Type Option!!!\n")
     if user_choice==1 or user_choice==0o1:
-        for i in range(random.randint(30000,50000)):
+        for i in range(random.randint(30000,90000)):  # Kindly Don't use an infinite loop here
             mouse_controller()
 
     elif user_choice==2 or user_choice==0o2:
