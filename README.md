@@ -30,3 +30,5 @@ Simply Open your terminal in the directory where the script has been downloaded 
 
 
 # NOTE : The log_file will be created in the script folder itself!
+
+Working On the Next Build :)
