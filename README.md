@@ -1,7 +1,7 @@
 # PYTHON-LOG
 A simple keylogger with some fun options too ;)
 
-This is PYTHON-LOG, a really simple tool for key-logging with some aditional fun options
+This is PYTHON-LOG, a really simple tool for key-logging with some additional fun options too
 
 
 
