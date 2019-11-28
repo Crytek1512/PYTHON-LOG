@@ -26,3 +26,7 @@ Open up your Terminal and type in:
 Simply Open your terminal in the directory where the script has been downloaded (or Navigate to that Directory) and type in:
 
 -> python/python3 PYTHON_LOGs.py
+
+
+
+# NOTE : The log_file will be created in the script folder itself!
