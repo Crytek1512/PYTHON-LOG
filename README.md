@@ -31,3 +31,5 @@ Simply Open your terminal in the directory where the script has been downloaded 
 
 # NOTE : The log_file will be created in the script folder itself!
 # Also Keep the Junk_Organizer.py file with the Logger script (PYTHON_LOGs.py)
+
+Thanks to GeeksforGeeks for the Junk_Organizer idea ;)
