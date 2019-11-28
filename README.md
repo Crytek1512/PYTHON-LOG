@@ -17,8 +17,9 @@ This is PYTHON-LOG, a really simple tool for key-logging with some aditional fun
 
 Open up your Terminal and type in:
 
-1. pip install pynput
-   pip install pyfiglet 
+#1. pip install pynput
+   
+#2. pip install pyfiglet 
    
 # HOW TO RUN THE SCRIPT
 
